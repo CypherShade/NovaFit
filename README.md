@@ -2,7 +2,7 @@
 
 A fully responsive, pixel-conscious landing page built for **NovaFit**, a fictional boutique fitness and wellness studio. Built as Assignment 1 (Level 1 — Foundation) of the DigiHust Frontend Web Development Internship Roadmap.
 
-**Live demo:** [add your deployed URL here]
+**Live demo:** https://nova-fit-ecru.vercel.app/
 
 ## Overview
 
